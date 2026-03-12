@@ -1,0 +1,29 @@
+{
+  "revisiones": [
+    {
+      "id": "7fd3",
+      "alumnoId": "1001",
+      "materia": "programacion 2",
+      "nota": "3"
+    },
+    {
+      "id": "b373",
+      "alumnoId": "1001",
+      "materia": "programacion 2",
+      "nota": "3"
+    },
+    {
+      "id": "02b9",
+      "alumnoId": "1004",
+      "materia": "programacion 1",
+      "nota": "2"
+    },
+    {
+      "id": "d5ed",
+      "alumnoId": "1001",
+      "materia": "programacion 2",
+      "nota": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
